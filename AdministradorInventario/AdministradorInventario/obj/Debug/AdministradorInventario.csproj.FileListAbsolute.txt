@@ -1,0 +1,13 @@
+C:\Users\Hidal\Google Drive\IGTI\Semestre 6\Desarrollo de Aplicaciones\ORDINARIO\AdministradorInventario\AdministradorInventario\obj\Debug\AdministradorInventario.csproj.AssemblyReference.cache
+C:\Users\Hidal\Google Drive\IGTI\Semestre 6\Desarrollo de Aplicaciones\ORDINARIO\AdministradorInventario\AdministradorInventario\obj\Debug\AdministradorInventario.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hidal\Google Drive\IGTI\Semestre 6\Desarrollo de Aplicaciones\ORDINARIO\AdministradorInventario\AdministradorInventario\obj\Debug\AdministradorInventario.FormularioPrincipal.resources
+C:\Users\Hidal\Google Drive\IGTI\Semestre 6\Desarrollo de Aplicaciones\ORDINARIO\AdministradorInventario\AdministradorInventario\obj\Debug\AdministradorInventario.Properties.Resources.resources
+C:\Users\Hidal\Google Drive\IGTI\Semestre 6\Desarrollo de Aplicaciones\ORDINARIO\AdministradorInventario\AdministradorInventario\obj\Debug\AdministradorInventario.csproj.GenerateResource.cache
+C:\Users\Hidal\Google Drive\IGTI\Semestre 6\Desarrollo de Aplicaciones\ORDINARIO\AdministradorInventario\AdministradorInventario\obj\Debug\AdministradorInventario.csproj.CoreCompileInputs.cache
+C:\Users\Hidal\Google Drive\IGTI\Semestre 6\Desarrollo de Aplicaciones\ORDINARIO\AdministradorInventario\AdministradorInventario\bin\Debug\AdministradorInventario.exe.config
+C:\Users\Hidal\Google Drive\IGTI\Semestre 6\Desarrollo de Aplicaciones\ORDINARIO\AdministradorInventario\AdministradorInventario\bin\Debug\AdministradorInventario.exe
+C:\Users\Hidal\Google Drive\IGTI\Semestre 6\Desarrollo de Aplicaciones\ORDINARIO\AdministradorInventario\AdministradorInventario\bin\Debug\AdministradorInventario.pdb
+C:\Users\Hidal\Google Drive\IGTI\Semestre 6\Desarrollo de Aplicaciones\ORDINARIO\AdministradorInventario\AdministradorInventario\obj\Debug\AdministradorInventario.exe
+C:\Users\Hidal\Google Drive\IGTI\Semestre 6\Desarrollo de Aplicaciones\ORDINARIO\AdministradorInventario\AdministradorInventario\obj\Debug\AdministradorInventario.pdb
+C:\Users\Hidal\Google Drive\IGTI\Semestre 6\Desarrollo de Aplicaciones\ORDINARIO\AdministradorInventario\AdministradorInventario\obj\Debug\AdministradorInventario.ModificarDatos.resources
+C:\Users\Hidal\Google Drive\IGTI\Semestre 6\Desarrollo de Aplicaciones\ORDINARIO\AdministradorInventario\AdministradorInventario\obj\Debug\AdministradorInventario.RegistrarExistencias.resources
